@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Resize-Method\Resize-Method\obj\Debug\net6.0\Resize-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Resize-Method\Resize-Method\obj\Debug\net6.0\Resize-Method.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Resize-Method\Resize-Method\obj\Debug\net6.0\Resize-Method.AssemblyInfo.cs
+C:\Users\HP\source\repos\Resize-Method\Resize-Method\obj\Debug\net6.0\Resize-Method.csproj.CoreCompileInputs.cache
